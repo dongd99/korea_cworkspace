@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Inputs1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F939C39A-BE89-43E6-97C3-39B54130767F}|Inputs1.vcxproj|C:\\cworks\\Inputs1\\choice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F939C39A-BE89-43E6-97C3-39B54130767F}|Inputs1.vcxproj|solutionrelative:choice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F939C39A-BE89-43E6-97C3-39B54130767F}|Inputs1.vcxproj|C:\\cworks\\Inputs1\\bitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F939C39A-BE89-43E6-97C3-39B54130767F}|Inputs1.vcxproj|solutionrelative:bitOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F939C39A-BE89-43E6-97C3-39B54130767F}|Inputs1.vcxproj|C:\\cworks\\Inputs1\\INPUTex2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F939C39A-BE89-43E6-97C3-39B54130767F}|Inputs1.vcxproj|solutionrelative:INPUTex2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F939C39A-BE89-43E6-97C3-39B54130767F}|Inputs1.vcxproj|C:\\cworks\\Inputs1\\INPUT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F939C39A-BE89-43E6-97C3-39B54130767F}|Inputs1.vcxproj|solutionrelative:INPUT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "choice.c",
+              "DocumentMoniker": "C:\\cworks\\Inputs1\\choice.c",
+              "RelativeDocumentMoniker": "choice.c",
+              "ToolTip": "C:\\cworks\\Inputs1\\choice.c",
+              "RelativeToolTip": "choice.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T12:37:06.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bitOperator.c",
+              "DocumentMoniker": "C:\\cworks\\Inputs1\\bitOperator.c",
+              "RelativeDocumentMoniker": "bitOperator.c",
+              "ToolTip": "C:\\cworks\\Inputs1\\bitOperator.c",
+              "RelativeToolTip": "bitOperator.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T12:22:54.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INPUTex2.c",
+              "DocumentMoniker": "C:\\cworks\\Inputs1\\INPUTex2.c",
+              "RelativeDocumentMoniker": "INPUTex2.c",
+              "ToolTip": "C:\\cworks\\Inputs1\\INPUTex2.c",
+              "RelativeToolTip": "INPUTex2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T12:05:02.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INPUT.c",
+              "DocumentMoniker": "C:\\cworks\\Inputs1\\INPUT.c",
+              "RelativeDocumentMoniker": "INPUT.c",
+              "ToolTip": "C:\\cworks\\Inputs1\\INPUT.c",
+              "RelativeToolTip": "INPUT.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T11:46:41.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

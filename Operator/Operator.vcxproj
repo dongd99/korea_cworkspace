@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ConstantEx.c" />
     <ClCompile Include="OperatorEx1.c" />
     <ClCompile Include="OperatorEx2.c" />
     <ClCompile Include="swap.c" />

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\cworks\\Operator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|C:\\cworks\\Operator\\swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|solutionrelative:swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|C:\\cworks\\Operator\\OperatorEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|solutionrelative:OperatorEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|C:\\cworks\\Operator\\ConstantEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|solutionrelative:ConstantEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|C:\\cworks\\Operator\\OperatorEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|solutionrelative:OperatorEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|C:\\cworks\\Operator\\OperatorEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|solutionrelative:OperatorEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|C:\\cworks\\Operator\\swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A82B085-B687-4853-91FE-60DB14041043}|Operator.vcxproj|solutionrelative:swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,25 +38,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ConstantEx.c",
+              "DocumentMoniker": "C:\\cworks\\Operator\\ConstantEx.c",
+              "RelativeDocumentMoniker": "ConstantEx.c",
+              "ToolTip": "C:\\cworks\\Operator\\ConstantEx.c*",
+              "RelativeToolTip": "ConstantEx.c*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T11:23:58.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "swap.c",
               "DocumentMoniker": "C:\\cworks\\Operator\\swap.c",
               "RelativeDocumentMoniker": "swap.c",
               "ToolTip": "C:\\cworks\\Operator\\swap.c",
               "RelativeToolTip": "swap.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwC0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-17T10:31:28.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T10:31:28.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OperatorEx2.c",
               "DocumentMoniker": "C:\\cworks\\Operator\\OperatorEx2.c",
               "RelativeDocumentMoniker": "OperatorEx2.c",
-              "ToolTip": "C:\\cworks\\Operator\\OperatorEx2.c",
-              "RelativeToolTip": "OperatorEx2.c",
+              "ToolTip": "C:\\cworks\\Operator\\OperatorEx2.c*",
+              "RelativeToolTip": "OperatorEx2.c*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-15T12:40:29.295Z",
@@ -60,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "OperatorEx1.c",
               "DocumentMoniker": "C:\\cworks\\Operator\\OperatorEx1.c",
               "RelativeDocumentMoniker": "OperatorEx1.c",
