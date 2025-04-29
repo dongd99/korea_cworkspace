@@ -36,5 +36,11 @@
     <ClCompile Include="CoffeeMachine.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="nestedFor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="seats.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

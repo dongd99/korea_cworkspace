@@ -132,6 +132,8 @@
     <ClCompile Include="IfEx.c" />
     <ClCompile Include="IfEx2.c" />
     <ClCompile Include="LeafYear.c" />
+    <ClCompile Include="nestedFor.c" />
+    <ClCompile Include="seats.c" />
     <ClCompile Include="WhileBreak.c" />
     <ClCompile Include="WhileEx1.c" />
   </ItemGroup>
