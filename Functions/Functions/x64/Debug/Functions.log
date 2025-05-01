@@ -1,0 +1,4 @@
+﻿  FindMax.c
+C:\cworks\Functions\FindMax.c(14,19): warning C4020: 'findMax': 실제 매개 변수가 너무 많습니다.
+C:\cworks\Functions\FindMax.c(22,5): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+  Functions.vcxproj -> C:\cworks\Functions\x64\Debug\Functions.exe
