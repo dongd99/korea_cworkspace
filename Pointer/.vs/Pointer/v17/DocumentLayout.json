@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Pointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\PointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:PointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\PointerChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:PointerChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\pointerint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:pointerint.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointerArray.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\PointerArray.c",
+              "RelativeDocumentMoniker": "PointerArray.c",
+              "ToolTip": "C:\\cworks\\Pointer\\PointerArray.c",
+              "RelativeToolTip": "PointerArray.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-13T12:35:26.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointerChar.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\PointerChar.c",
+              "RelativeDocumentMoniker": "PointerChar.c",
+              "ToolTip": "C:\\cworks\\Pointer\\PointerChar.c",
+              "RelativeToolTip": "PointerChar.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-13T12:25:55.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pointerint.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\pointerint.c",
+              "RelativeDocumentMoniker": "pointerint.c",
+              "ToolTip": "C:\\cworks\\Pointer\\pointerint.c",
+              "RelativeToolTip": "pointerint.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-13T12:11:46.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

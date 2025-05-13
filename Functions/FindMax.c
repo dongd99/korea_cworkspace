@@ -3,7 +3,7 @@
 
 
 
-int findMax(int arr[]);
+int findMax(int arr[]);//함수 선언부
 
 int main() {
 
@@ -18,7 +18,7 @@ int main() {
 	return 0;
 }
 
-//최대값을 계산하는 함수 정의
+//최대값을 계산하는 함수 정의(구현부)
 int findMax(int arr[], int len) {
 	int maxVal = 0;
 	for (int i = 0; i < len; i++)
