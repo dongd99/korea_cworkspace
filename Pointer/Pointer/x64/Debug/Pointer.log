@@ -1,18 +1,3 @@
-﻿  PointerArray.c
-C:\cworks\Pointer\PointerArray.c(11,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
-C:\cworks\Pointer\PointerArray.c(11,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
-C:\cworks\Pointer\PointerArray.c(11,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
-C:\cworks\Pointer\PointerArray.c(11,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 3과(와) 충돌합니다.
-C:\cworks\Pointer\PointerArray.c(12,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
-C:\cworks\Pointer\PointerArray.c(12,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
-C:\cworks\Pointer\PointerArray.c(12,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
-C:\cworks\Pointer\PointerArray.c(12,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 3과(와) 충돌합니다.
-C:\cworks\Pointer\PointerArray.c(15,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
-C:\cworks\Pointer\PointerArray.c(15,10): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
-C:\cworks\Pointer\PointerArray.c(15,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
-C:\cworks\Pointer\PointerArray.c(15,10): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 3과(와) 충돌합니다.
-C:\cworks\Pointer\PointerArray.c(20,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
-C:\cworks\Pointer\PointerArray.c(20,10): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
-C:\cworks\Pointer\PointerArray.c(20,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
-C:\cworks\Pointer\PointerArray.c(20,10): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 3과(와) 충돌합니다.
+﻿  swap.c
+C:\cworks\Pointer\swap.c(9,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
   Pointer.vcxproj -> C:\cworks\Pointer\x64\Debug\Pointer.exe

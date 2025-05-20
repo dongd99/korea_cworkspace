@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-
+	// 배열 선언과 동시에 초기화(저장)
 	int a[4] = { 10, 20, 30, 40 };
-
+	// 포인터 변수 선언
 	int* pa;
 	int i;
 
