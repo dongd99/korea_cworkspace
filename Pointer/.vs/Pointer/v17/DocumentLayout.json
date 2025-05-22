@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\cworks\\Pointer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\test20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:test20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\randCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:randCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\findMaxidx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:findMaxidx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\FindMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:FindMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\ChangeArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:ChangeArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\calcSum2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:calcSum2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\calcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:calcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,16 +35,12 @@
       "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\calcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:calcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\test20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:test20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\ChangeArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|solutionrelative:ChangeArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ECA5F41-1716-45C6-A0FC-264FEFA8DD14}|Pointer.vcxproj|C:\\cworks\\Pointer\\PointerString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -67,6 +83,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "randCoin.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\randCoin.c",
+              "RelativeDocumentMoniker": "randCoin.c",
+              "ToolTip": "C:\\cworks\\Pointer\\randCoin.c",
+              "RelativeToolTip": "randCoin.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T11:07:15.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "findMaxidx.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\findMaxidx.c",
+              "RelativeDocumentMoniker": "findMaxidx.c",
+              "ToolTip": "C:\\cworks\\Pointer\\findMaxidx.c",
+              "RelativeToolTip": "findMaxidx.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T10:45:44.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindMax.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\FindMax.c",
+              "RelativeDocumentMoniker": "FindMax.c",
+              "ToolTip": "C:\\cworks\\Pointer\\FindMax.c",
+              "RelativeToolTip": "FindMax.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T10:25:59.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "calcSum2.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\calcSum2.c",
+              "RelativeDocumentMoniker": "calcSum2.c",
+              "ToolTip": "C:\\cworks\\Pointer\\calcSum2.c",
+              "RelativeToolTip": "calcSum2.c",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T10:07:09.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "test20.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\test20.c",
               "RelativeDocumentMoniker": "test20.c",
@@ -79,20 +147,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "swap.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\swap.c",
               "RelativeDocumentMoniker": "swap.c",
               "ToolTip": "C:\\cworks\\Pointer\\swap.c",
               "RelativeToolTip": "swap.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-20T10:32:45.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "calcSum.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\calcSum.c",
               "RelativeDocumentMoniker": "calcSum.c",
@@ -105,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "TypingGame.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\TypingGame.c",
               "RelativeDocumentMoniker": "TypingGame.c",
@@ -113,12 +181,11 @@
               "RelativeToolTip": "TypingGame.c",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAD0AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T12:17:52.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T12:17:52.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "test.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\test.c",
               "RelativeDocumentMoniker": "test.c",
@@ -131,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ChangeArray.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\ChangeArray.c",
               "RelativeDocumentMoniker": "ChangeArray.c",
@@ -139,11 +206,12 @@
               "RelativeToolTip": "ChangeArray.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T11:06:28.337Z"
+              "WhenOpened": "2025-05-15T11:06:28.337Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "PointerString.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\PointerString.c",
               "RelativeDocumentMoniker": "PointerString.c",
@@ -155,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "PointerCalc.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\PointerCalc.c",
               "RelativeDocumentMoniker": "PointerCalc.c",
@@ -167,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "PointerArray.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\PointerArray.c",
               "RelativeDocumentMoniker": "PointerArray.c",
@@ -179,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "PointerChar.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\PointerChar.c",
               "RelativeDocumentMoniker": "PointerChar.c",
@@ -191,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "pointerint.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\pointerint.c",
               "RelativeDocumentMoniker": "pointerint.c",
