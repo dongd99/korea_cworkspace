@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\DynamicAlllocation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6F984-1038-4679-A17F-553FD3EC4936}|DynamicAlllocation.vcxproj|C:\\cworks\\DynamicAlllocation\\mallocEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63E6F984-1038-4679-A17F-553FD3EC4936}|DynamicAlllocation.vcxproj|solutionrelative:mallocEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6F984-1038-4679-A17F-553FD3EC4936}|DynamicAlllocation.vcxproj|C:\\cworks\\DynamicAlllocation\\mallocEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63E6F984-1038-4679-A17F-553FD3EC4936}|DynamicAlllocation.vcxproj|solutionrelative:mallocEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mallocEx2.c",
+              "DocumentMoniker": "C:\\cworks\\DynamicAlllocation\\mallocEx2.c",
+              "RelativeDocumentMoniker": "mallocEx2.c",
+              "ToolTip": "C:\\cworks\\DynamicAlllocation\\mallocEx2.c",
+              "RelativeToolTip": "mallocEx2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-27T11:07:48.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mallocEx1.c",
+              "DocumentMoniker": "C:\\cworks\\DynamicAlllocation\\mallocEx1.c",
+              "RelativeDocumentMoniker": "mallocEx1.c",
+              "ToolTip": "C:\\cworks\\DynamicAlllocation\\mallocEx1.c",
+              "RelativeToolTip": "mallocEx1.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-27T10:43:02.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

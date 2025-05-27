@@ -1,0 +1,8 @@
+﻿  bankmain.c
+C:\cworks\Banking\bankmain.c(31,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\cworks\Banking\bankmain.c(137,2): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Banking.vcxproj -> C:\cworks\Banking\x64\Release\Banking.exe

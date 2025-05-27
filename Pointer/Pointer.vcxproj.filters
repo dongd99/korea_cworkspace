@@ -60,5 +60,8 @@
     <ClCompile Include="randCoin.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strtok.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

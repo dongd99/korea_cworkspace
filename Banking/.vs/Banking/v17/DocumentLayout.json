@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Banking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19EC994E-5974-4BE2-BC2F-1DA60C5B1307}|Banking.vcxproj|C:\\cworks\\Banking\\bankmain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19EC994E-5974-4BE2-BC2F-1DA60C5B1307}|Banking.vcxproj|solutionrelative:bankmain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bankmain.c",
+              "DocumentMoniker": "C:\\cworks\\Banking\\bankmain.c",
+              "RelativeDocumentMoniker": "bankmain.c",
+              "ToolTip": "C:\\cworks\\Banking\\bankmain.c",
+              "RelativeToolTip": "bankmain.c",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAH0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-27T11:38:25.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
