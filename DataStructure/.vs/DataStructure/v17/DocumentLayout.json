@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A340B0A-683E-4793-9D49-A8D99B04B1BD}|DataStructure.vcxproj|C:\\cworks\\DataStructure\\LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A340B0A-683E-4793-9D49-A8D99B04B1BD}|DataStructure.vcxproj|solutionrelative:LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A340B0A-683E-4793-9D49-A8D99B04B1BD}|DataStructure.vcxproj|C:\\cworks\\DataStructure\\QueueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A340B0A-683E-4793-9D49-A8D99B04B1BD}|DataStructure.vcxproj|solutionrelative:QueueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A340B0A-683E-4793-9D49-A8D99B04B1BD}|DataStructure.vcxproj|C:\\cworks\\DataStructure\\stackEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A340B0A-683E-4793-9D49-A8D99B04B1BD}|DataStructure.vcxproj|solutionrelative:stackEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedList.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\LinkedList.c",
+              "RelativeDocumentMoniker": "LinkedList.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\LinkedList.c",
+              "RelativeToolTip": "LinkedList.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T12:45:32.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\QueueEx.c",
+              "RelativeDocumentMoniker": "QueueEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\QueueEx.c",
+              "RelativeToolTip": "QueueEx.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T12:27:48.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stackEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\stackEx.c",
+              "RelativeDocumentMoniker": "stackEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\stackEx.c",
+              "RelativeToolTip": "stackEx.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T12:13:15.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\fileIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|C:\\cworks\\fileIO\\binFwrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|solutionrelative:binFwrite.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|C:\\cworks\\fileIO\\binIMGcopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|solutionrelative:binIMGcopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|C:\\cworks\\fileIO\\fileappend.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|solutionrelative:fileappend.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|C:\\cworks\\fileIO\\textFilecopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|solutionrelative:textFilecopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|C:\\cworks\\fileIO\\fileGugudan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|solutionrelative:fileGugudan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|C:\\cworks\\fileIO\\fileString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|solutionrelative:fileString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|C:\\cworks\\fileIO\\asciiRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C89B1BB1-280F-449B-A2B5-37361B34B98F}|fileIO.vcxproj|solutionrelative:asciiRead.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "binIMGcopy.c",
+              "DocumentMoniker": "C:\\cworks\\fileIO\\binIMGcopy.c",
+              "RelativeDocumentMoniker": "binIMGcopy.c",
+              "ToolTip": "C:\\cworks\\fileIO\\binIMGcopy.c",
+              "RelativeToolTip": "binIMGcopy.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T11:47:25.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binFwrite.c",
+              "DocumentMoniker": "C:\\cworks\\fileIO\\binFwrite.c",
+              "RelativeDocumentMoniker": "binFwrite.c",
+              "ToolTip": "C:\\cworks\\fileIO\\binFwrite.c",
+              "RelativeToolTip": "binFwrite.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T11:31:05.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "textFilecopy.c",
+              "DocumentMoniker": "C:\\cworks\\fileIO\\textFilecopy.c",
+              "RelativeDocumentMoniker": "textFilecopy.c",
+              "ToolTip": "C:\\cworks\\fileIO\\textFilecopy.c",
+              "RelativeToolTip": "textFilecopy.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T11:21:47.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fileGugudan.c",
+              "DocumentMoniker": "C:\\cworks\\fileIO\\fileGugudan.c",
+              "RelativeDocumentMoniker": "fileGugudan.c",
+              "ToolTip": "C:\\cworks\\fileIO\\fileGugudan.c",
+              "RelativeToolTip": "fileGugudan.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T11:05:29.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fileString.c",
+              "DocumentMoniker": "C:\\cworks\\fileIO\\fileString.c",
+              "RelativeDocumentMoniker": "fileString.c",
+              "ToolTip": "C:\\cworks\\fileIO\\fileString.c",
+              "RelativeToolTip": "fileString.c",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T10:37:48.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fileappend.c",
+              "DocumentMoniker": "C:\\cworks\\fileIO\\fileappend.c",
+              "RelativeDocumentMoniker": "fileappend.c",
+              "ToolTip": "C:\\cworks\\fileIO\\fileappend.c",
+              "RelativeToolTip": "fileappend.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T10:27:46.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "asciiRead.c",
+              "DocumentMoniker": "C:\\cworks\\fileIO\\asciiRead.c",
+              "RelativeDocumentMoniker": "asciiRead.c",
+              "ToolTip": "C:\\cworks\\fileIO\\asciiRead.c",
+              "RelativeToolTip": "asciiRead.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T10:11:12.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
